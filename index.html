@@ -30,9 +30,11 @@ a{color:inherit}
 .aytab.aktif{color:#E85F36;border-bottom-color:#E85F36}
 .aytab.pasif{color:#B9B2A8;cursor:default;pointer-events:none}
 .hero{max-width:1560px;margin:0 auto;padding:26px 24px 4px}
+/* Etiket ve dönem başlığı aynı satırda; taban çizgileri hizalanır */
+.hero-ust{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
 .eyebrow{font-size:15px;letter-spacing:.11em;color:#E85F36;font-weight:700}
-.hero h1{margin:7px 0 0;font-size:34px;letter-spacing:-.02em}
-.hero p{margin:7px 0 0;font-size:14px;color:#7A7A7A}
+.hero h1{margin:0;font-size:34px;letter-spacing:-.02em}
+.hero p{margin:6px 0 0;font-size:14px;color:#7A7A7A}
 .shell{max-width:1560px;margin:0 auto;padding:18px 24px 60px;display:grid;grid-template-columns:264px minmax(0,1fr);gap:26px}
 @media(max-width:1080px){.shell{grid-template-columns:1fr}.sidenav{display:none}}
 .sidenav{position:sticky;top:112px;align-self:start;max-height:calc(100vh - 132px);overflow-y:auto;background:#fff;border:1px solid #E0E0E0;border-radius:12px;padding:12px;scrollbar-width:thin}
@@ -144,9 +146,11 @@ footer{max-width:1560px;margin:0 auto;padding:0 24px 40px;font-size:11.5px;color
 </div></div>
 
 <div class="hero">
-  <div class="eyebrow">AYLIK ARAMA TALEBİ INSIGHT'LARI</div>
-  <h1>Eylül 2026</h1>
-  <p>Eylül ayının 2024 ve 2025 arama davranışından çıkarılan talep görünümü</p>
+  <div class="hero-ust">
+    <div class="eyebrow">AYLIK ARAMA TALEBİ INSIGHT'LARI</div>
+    <h1>Eylül 2026</h1>
+  </div>
+  <p>Eylül ayının 2024 ve 2025 arama hacmi &amp; 2026 Google Trends verilerinden çıkarılan talep görünümü</p>
 </div>
 
 <div class="shell">
