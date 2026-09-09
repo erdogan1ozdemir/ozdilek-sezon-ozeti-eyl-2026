@@ -1,4 +1,4 @@
-# Özdilekteyim · Eylül 2026 Arama Talebi Brifingi
+# Özdilekteyim · Eylül 2026 Arama Talebi Insight'ları
 
 Eylül ayının arama talebi görünümü: yükselen başlıklar, mevsimsel keskinlik sıralaması,
 canlı Google Trends seyri, Kat 2 kırılımında kategori profili ve katalog dışı marka fırsatları.
