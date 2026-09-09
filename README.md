@@ -7,6 +7,9 @@ canlı Google Trends seyri, Kat 2 kırılımında kategori profili ve katalog d�
 - Google Keyword Planner · Türkiye · aylık arama hacmi · 2024 ve 2025 takvim yılları
 - Google Trends · canlı haftalık seyir · Ağu 2025 - Eyl 2026
 
+Sayfadaki tüm tablolar, 30 başlığın haftalık Google Trends serileri ve terim sözlüğü
+`ozdilekteyim-eylul-2026-arama-talebi.xlsx` dosyasında yer almaktadır.
+
 Tek dosyalık statik sayfa (`index.html`). Harici bağımlılık, script veya izleme kodu yoktur.
 
 Bu sayfa web sürümüdür (980px). Aynı içeriğin e-posta gövdesine yapıştırılmak üzere
