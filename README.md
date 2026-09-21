@@ -9,12 +9,12 @@ Google Trends haftalık seyri, Kat 2 kırılımında kategori profili ve katalog
 |---|---|---|---|---|---|
 | Ocak 2026 | `ocak/index.html` | 306 | 305 / 306 | 25-31 Oca 2026 | Ay sonunda sabitlendi |
 | Şubat 2026 | `subat/index.html` | 150 | 150 / 150 | 22-28 Şub 2026 | Ay sonunda sabitlendi |
-| Mart 2026 | `mart/index.html` | 138 | 138 / 138 | 22-28 Mar 2026 | Ay sonunda sabitlendi |
-| Nisan 2026 | `nisan/index.html` | 122 | 122 / 122 | 19-25 Nis 2026 | Ay sonunda sabitlendi |
-| Mayıs 2026 | `mayis/index.html` | 200 | 200 / 200 | 24-30 May 2026 | Ay sonunda sabitlendi |
-| Haziran 2026 | `haziran/index.html` | 231 | 231 / 231 | 21-27 Haz 2026 | Ay sonunda sabitlendi |
-| Temmuz 2026 | `temmuz/index.html` | 215 | 215 / 215 | 19-25 Tem 2026 | Ay sonunda sabitlendi |
-| Ağustos 2026 | `agustos/index.html` | 129 | 129 / 129 | 23-29 Ağu 2026 | Ay sonunda sabitlendi |
+| Mart 2026 | `mart/index.html` | 138 | 138 / 138 | 29 Mar - 4 Nis 2026 | Ay sonunda sabitlendi |
+| Nisan 2026 | `nisan/index.html` | 122 | 122 / 122 | 26 Nis - 2 May 2026 | Ay sonunda sabitlendi |
+| Mayıs 2026 | `mayis/index.html` | 200 | 200 / 200 | 31 May - 6 Haz 2026 | Ay sonunda sabitlendi |
+| Haziran 2026 | `haziran/index.html` | 231 | 231 / 231 | 28 Haz - 4 Tem 2026 | Ay sonunda sabitlendi |
+| Temmuz 2026 | `temmuz/index.html` | 215 | 215 / 215 | 26 Tem - 1 Ağu 2026 | Ay sonunda sabitlendi |
+| Ağustos 2026 | `agustos/index.html` | 129 | 129 / 129 | 30 Ağu - 5 Eyl 2026 | Ay sonunda sabitlendi |
 | Eylül 2026 | `index.html` | 103 | 103 / 103 | 13-19 Eyl 2026 | Haftalık güncelleniyor |
 | Ekim 2026 | `ekim/index.html` | 155 | 155 / 155 | 13-19 Eyl 2026 | Haftalık güncelleniyor |
 | Kasım 2026 | `kasim/index.html` | 175 | 175 / 175 | 13-19 Eyl 2026 | Haftalık güncelleniyor |
@@ -26,8 +26,9 @@ Aylar sayfanın üst kısmındaki sekmelerden birbirine bağlıdır.
 **Google Trends penceresi.** Her seri 53 tam haftadır; haftalar Pazar-Cumartesi,
 pencere son tamamlanmış Cumartesi'de biter. Çekim gününün tamamlanmamış haftası seriye alınmaz.
 
-- **Geçmiş aylar** (Ocak-Ağustos) kendi ayının içindeki son Cumartesi'de biten pencereyle
-  ölçülmüş ve sabitlenmiştir. "Geçen yıl aynı hafta" ve "son 30 günde" kıyasları o ayın
+- **Geçmiş aylar** (Ocak-Ağustos) ayın son gününü içeren haftada biten pencereyle ölçülmüş
+  ve sabitlenmiştir; ayın son günleri seride yer alır. Ay sonu Cumartesi'ye denk gelmediğinde
+  son haftanın bir kısmı sonraki aya taşar (ör. Temmuz: 26 Tem - 1 Ağu). "Geçen yıl aynı hafta" ve "son 30 günde" kıyasları o ayın
   son haftasına göredir; sayfalarda sütun adı "Ay Sonu"dur.
 - **İçinde bulunulan ay ve sonrası** (Eylül-Aralık) ortak pencereyi paylaşır ve her hafta
   güncellenir; sütun adı "Canlı"dır. Bir ayın son haftalık güncellemesi o ayın
